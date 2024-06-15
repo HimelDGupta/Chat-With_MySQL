@@ -13,4 +13,7 @@ In this project, I've developed a chatbot that interprets natural language queri
 
 
 ## Architecture of the Chatbot
+
+The chatbot operates by transforming a user's natural language query into a SQL query via GPT model, executing it on a SQL database, and then returning the results in natural language. This workflow involves multiple steps of data processing and interaction with the OpenAI API and a SQL database, all smoothly integrated into a Streamlit application.
+
 ![Chatbot Architecture](src/chat-with-mysql.png)

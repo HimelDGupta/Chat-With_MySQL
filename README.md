@@ -10,3 +10,7 @@ In this project, I've developed a chatbot that interprets natural language queri
 - **Database Interaction**: Connects to a SQL database to retrieve and display query results.
 - **Streamlit GUI**: Provides an intuitive interface built with Streamlit, making it accessible for users of all skill levels.
 - **Python-based**: Fully implemented in Python, demonstrating best practices in modern software development.
+
+
+## Architecture of the Chatbot
+![Chatbot Architecture](.src/chat-with-mysql.png)

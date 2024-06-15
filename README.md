@@ -13,4 +13,4 @@ In this project, I've developed a chatbot that interprets natural language queri
 
 
 ## Architecture of the Chatbot
-![Chatbot Architecture](.src/chat-with-mysql.png)
+![Chatbot Architecture](src/chat-with-mysql.png)
